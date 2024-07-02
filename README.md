@@ -22,7 +22,7 @@ Notes taken when studying C++ from Hou Jie
 
 ### C++程序设计 II 兼谈对象模型
 
-1. [P14 兼谈对象模型引言 && P15 转换函数 && P16 non explicit one argument constructor](https://github.com/alstondu/note_cPlus/blob/main/P7%20%26%26%20P8.md)
+1. [P14 兼谈对象模型引言 && P15 转换函数 && P16 non explicit one argument constructor](https://github.com/alstondu/note_cPlus/blob/main/P14%20-%20P16.md)
 
 2. [P17 智能指针 && P18 仿函数](https://github.com/alstondu/note_cPlus/blob/main/P17%20%26%26%20P18.md)
 
