@@ -30,5 +30,7 @@ Notes taken when studying C++ from Hou Jie
 
 4. [P26 - P28 reference 和 C++11 三个新特性：variadic templates, auto, ranged-based for](https://github.com/alstondu/note_cPlus/blob/main/P26%20-%20P28.md)
 
+5. [P29 - P32 复合&继承关系下的构造和析构，对象模型，this，Dynamic Building](https://github.com/alstondu/note_cPlus/blob/main/P29%20-%20P32.md)
+
 ### C++2.0 新特性
 ### C++ 标准库-体系结构及内核分析
