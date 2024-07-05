@@ -26,5 +26,9 @@ Notes taken when studying C++ from Hou Jie
 
 2. [P17 智能指针 && P18 仿函数](https://github.com/alstondu/note_cPlus/blob/main/P17%20%26%26%20P18.md)
 
+3. [P19 - P25 模版](https://github.com/alstondu/note_cPlus/blob/main/P19%20-%20P25.md)
+
+4. [P26 - P28 reference 和 C++11 三个新特性：variadic templates, auto, ranged-based for](https://github.com/alstondu/note_cPlus/blob/main/P26%20-%20P28.md)
+
 ### C++2.0 新特性
 ### C++ 标准库-体系结构及内核分析
