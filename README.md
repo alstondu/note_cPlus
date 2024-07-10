@@ -40,4 +40,6 @@ Notes taken when studying C++ from Hou Jie
 
 2. [E3 - E6 模版空格，空指针，auto，单一初始化，Initializer List](https://github.com/alstondu/note_cPlus/blob/main/E3%20-%20E6.md)
 
+3. [E7 - E9 Explicit，Range_based for，=default，=delete](https://github.com/alstondu/note_cPlus/blob/main/E7%20-%20E9.md)
+
 ### C++ 标准库-体系结构及内核分析
