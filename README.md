@@ -38,4 +38,6 @@ Notes taken when studying C++ from Hou Jie
 
 1. [E1 Overview && E2 Variadic Templates](https://github.com/alstondu/note_cPlus/blob/main/E1%20%26%26%20E2.md)
 
+2. [E3 - E6 模版空格，空指针，auto，单一初始化，Initializer List](https://github.com/alstondu/note_cPlus/blob/main/E3%20-%20E6.md)
+
 ### C++ 标准库-体系结构及内核分析
