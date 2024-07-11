@@ -42,4 +42,6 @@ Notes taken when studying C++ from Hou Jie
 
 3. [E7 - E9 Explicit，Range_based for，=default，=delete](https://github.com/alstondu/note_cPlus/blob/main/E7%20-%20E9.md)
 
+4. [E10 Alias Template && E11 Template Template Parameter](https://github.com/alstondu/note_cPlus/blob/main/E10%20%26%26%20E11.md)
+
 ### C++ 标准库-体系结构及内核分析
