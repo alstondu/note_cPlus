@@ -44,4 +44,6 @@ Notes taken when studying C++ from Hou Jie
 
 4. [E10 Alias Template && E11 Template Template Parameter](https://github.com/alstondu/note_cPlus/blob/main/E10%20%26%26%20E11.md)
 
+5. [E12 Type Alias, noexcept, override, final && E13 decltype](https://github.com/alstondu/note_cPlus/blob/main/E12%20%26%26%20E13.md)
+
 ### C++ 标准库-体系结构及内核分析
