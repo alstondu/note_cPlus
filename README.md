@@ -46,4 +46,8 @@ Notes taken when studying C++ from Hou Jie
 
 5. [E12 Type Alias, noexcept, override, final && E13 decltype](https://github.com/alstondu/note_cPlus/blob/main/E12%20%26%26%20E13.md)
 
+6. [E14 Lambdas](https://github.com/alstondu/note_cPlus/blob/main/E14.md)
+
+7. [E15 - E21 Variadic Template 七个例子](https://github.com/alstondu/note_cPlus/blob/main/E15%20-%20E21.md)
+
 ### C++ 标准库-体系结构及内核分析
