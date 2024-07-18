@@ -57,4 +57,6 @@ Notes taken when studying C++ from Hou Jie
 
 #### 标准库
 
+1. [E22 - E26 Rvalue and Move](https://github.com/alstondu/note_cPlus/blob/main/E22%20-%20E26.md)
+
 
