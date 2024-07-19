@@ -59,4 +59,4 @@ Notes taken when studying C++ from Hou Jie
 
 1. [E22 - E26 Rvalue and Move](https://github.com/alstondu/note_cPlus/blob/main/E22%20-%20E26.md)
 
-
+2. [E27 - E32 Array, Hashtable, Hash function 和 tuple](https://github.com/alstondu/note_cPlus/blob/main/E27%20-%20E32.md)
